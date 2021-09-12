@@ -1,9 +1,11 @@
-### Hey ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## I'm Julien
 
-###  🔭 I’m currently working on "Let's be Friends !"
+### <div align="center"> Hey ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
+## <div align="center">I'm Julien </div>
 
-### 🌱 I’m currently learning React, and starting blockchain dev.
+
+###  <div align="center">🔭 I’m currently working on "Let's be Friends !" </div>
+
+### <div align="center">🌱 I’m currently learning React, and starting blockchain dev. </div>
 
 
 <!--
