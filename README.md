@@ -1,11 +1,11 @@
 
 ### <div align="center"> Hey ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 ## <div align="center">I'm Julien </div>
-
+I just want to learn more stuff and get good at it.
 
 ###  <div align="center">🔭 I’m currently working on "Let's be Friends !" </div>
 
-### <div align="center">🌱 I’m currently learning React, and starting blockchain dev. </div>
+### <div align="center">🌱 I have huge interest for blockchain dev. </div>
 
 
 <!--
