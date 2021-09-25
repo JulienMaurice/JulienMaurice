@@ -1,7 +1,7 @@
 
 ### <div align="center"> Hey ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 ## <div align="center">I'm Julien </div>
-I just want to learn more stuff and get good at it.
+<div align="center">I just want to learn more stuff and get good at it.</div>
 
 ###  <div align="center">🔭 I’m currently working on "Let's be Friends !" </div>
 
