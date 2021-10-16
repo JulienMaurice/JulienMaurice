@@ -3,7 +3,7 @@
 ## <div align="center">I'm Julien </div>
 <div align="center">I just want to learn more stuff and get good at it.</div>
 
-###  <div align="center">🔭 I’m currently working on "Let's be Friends !" </div>
+###  <div align="center">🔭 "Let's be Friends !" coming soon</div>
 
 ### <div align="center">🌱 I have huge interest for blockchain dev. </div>
 ### <div align="center">⚡ Currently on Solidity / React  </div>
