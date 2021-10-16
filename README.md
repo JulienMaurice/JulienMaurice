@@ -6,6 +6,7 @@
 ###  <div align="center">🔭 I’m currently working on "Let's be Friends !" </div>
 
 ### <div align="center">🌱 I have huge interest for blockchain dev. </div>
+### <div align="center">⚡ Currently on Solidity / React  </div>
 
 
 <!--
