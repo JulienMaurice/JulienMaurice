@@ -1,7 +1,7 @@
 
 ### <div align="center"> Hey ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 ## <div align="center">I'm Julien </div>
-<div align="center">I just want to get a lot of input, and link th edot.</div>
+<div align="center">I just want to get a lot of input, and link the dot.</div>
 
 
 
