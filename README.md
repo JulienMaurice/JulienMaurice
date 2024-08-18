@@ -1,23 +1,48 @@
+# 👋 Hello, I'm Ju'!
 
-### <div align="center"> Hey ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
-## <div align="center">I'm Julien </div>
-<div align="center">I just want to get a lot of input, and link the dot.</div>
+## 💻 Full Stack Developer | Vue.js & Nuxt.js Oriented
 
+### 🛠 Preferred Tech Arsenal
 
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+Remember: Vue.js might be my favorite, but it's not my only trick!
 
+### 🚀 Key Projects
 
-<!--
-**JulienMaurice/JulienMaurice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **French Air Force app: Mission Ops Preparation System**
+  - Developed a comprehensive application for planning and coordinating air force operations
 
-Here are some ideas to get you started:
+- **Sports Academy app: Athlete Performance Suite**
+  - Created an advanced performance tracking and analysis tool for optimizing athlete development in academies
+  - Features: 
+    - Dynamic data visualization for tracking progress
+    - Customizable performance metrics and goals
+    - Batch import functionality for efficient data management from xls
+    - Automated PDF report generation for coaches and athletes
+  - [![GitHub](https://img.shields.io/badge/GitHub-SkillSync-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulienMaurice/SkillSync)
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Professional Voyages
+
+- **Military Service: 5 Years**
+  - Infantry, Team Leader
+
+- **Maritime Security Operations**
+  - Participated in anti-piracy missions in the Indian Ocean
+
+### 📫 Get in Touch
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-maurice/)
+
+</div>
+
+---
+
+<div align="center">
+
+</div>
