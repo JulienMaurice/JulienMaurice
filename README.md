@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Ju'!
 
+[![My Website](https://img.shields.io/badge/Visit-Portfolio-1abc9c?style=for-the-badge&logo=netlify&logoColor=white)](https://jmveltre.netlify.app/)
+
 ## 💻 Full Stack Developer | Vue.js & Nuxt.js Oriented
 
 ### 🛠 Preferred Tech Arsenal
@@ -24,6 +26,9 @@ Remember: Vue.js might be my favorite, but it's not my only trick!
     - Batch import functionality for efficient data management from xls
     - Automated PDF report generation for coaches and athletes
   - [![GitHub](https://img.shields.io/badge/GitHub-SkillSync-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulienMaurice/SkillSync)
+ 
+    [![My Website](https://img.shields.io/badge/Visit-Portfolio-1abc9c?style=for-the-badge&logo=netlify&logoColor=white)](https://jmveltre.netlify.app/)
+
 
 ### 🌟 Professional Voyages
 
