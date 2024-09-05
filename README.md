@@ -27,8 +27,6 @@ Remember: Vue.js might be my favorite, but it's not my only trick!
     - Automated PDF report generation for coaches and athletes
   - [![GitHub](https://img.shields.io/badge/GitHub-SkillSync-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulienMaurice/SkillSync)
  
-    [![My Website](https://img.shields.io/badge/Visit-Portfolio-1abc9c?style=for-the-badge&logo=netlify&logoColor=white)](https://jmveltre.netlify.app/)
-
 
 ### 🌟 Professional Voyages
 
@@ -41,10 +39,13 @@ Remember: Vue.js might be my favorite, but it's not my only trick!
 ### 📫 Get in Touch
 
 <div align="center">
-  
+
+[![My Website](https://img.shields.io/badge/Visit-Portfolio-1abc9c?style=for-the-badge&logo=netlify&logoColor=white)](https://jmveltre.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-maurice/)
 
 </div>
+
+
 
 ---
 
