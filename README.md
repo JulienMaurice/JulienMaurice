@@ -25,7 +25,7 @@
     - Integration with Open-Meteo and Pioupiou APIs
     - Interactive widgets including compass indicators and real-time risk evaluation
     - Automation via n8n workflows for live updates and alerts
-    - [![App](https://img.shields.io/badge/Live-App-0c8aff?style=for-the-badge&logo=vercel&logoColor=white)](souchal.netlify.app)
+    - [![App](https://img.shields.io/badge/Live-App-0c8aff?style=for-the-badge&logo=vercel&logoColor=white)](https://souchal.netlify.app)
 
 ### 🌟 Professional Voyages
 
